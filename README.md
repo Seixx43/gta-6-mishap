@@ -9,7 +9,8 @@ While I was stealing cars in Los Santos, my agent "helpfully" refactored the pay
 ## Run it
 
 ```sh
-cat ENTRY.md
+node main.ts
+# prints the entry sentence; also writes it to out/entry.txt
 ```
 
 The entry is one sentence (185 characters), in `ENTRY.md` and above: the funniest true-to-life thing an AI coding agent did while its human was busy playing GTA 6 on launch week.

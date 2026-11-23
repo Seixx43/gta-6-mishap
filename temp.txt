@@ -1,1 +1,1 @@
-Temporary file to enable editing the repository About section.
+This file only existed so the repository's About section could be edited while it was empty; it carries no entry content.
